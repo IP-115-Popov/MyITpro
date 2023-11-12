@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MyITpro</string>
-    <string name="button_text">Нажми на меня</string>
+    <string name="logo_text">Калькулятор</string>
+    <string name="hint_number_one">введите первое число</string>
+    <string name="hint_number_two">введите второе число</string>
+    <string name="button_1">добавить числа</string>
+    <string name="result">результат</string>
 </resources>
